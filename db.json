@@ -1,0 +1,257 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "couresenumber": "113",
+      "title": "Java developer",
+      "length": "40 weeks",
+      "startDate": "2023-08-01",
+      "description": "What Does a Java Developer Do? Responsible for developing applications and software."
+    },
+    {
+      "id": 2,
+      "couresenumber": "1113",
+      "title": "C# Developer",
+      "length": "40 weeks",
+      "startDate": "2023-08-04",
+      "description": "What Does a C# Developer Do? Responsible for developing applications and software."
+    },
+    {
+      "id": 3,
+      "couresenumber": "1213",
+      "title": "Cyber security",
+      "length": "80 weeks",
+      "startDate": "2023-08-04",
+      "description": "What Does a cyber security Developer Do? Responsible for developing applications and software."
+    },
+    {
+      "id": 4,
+      "couresenumber": "2313",
+      "title": "Python developer",
+      "length": "40 weeks",
+      "startDate": "2023-08-01",
+      "description": "What Does a Python Developer Do? Responsible for developing applications and software."
+    },
+    {
+      "id": 5,
+      "couresenumber": "9963",
+      "title": ".NET Developer",
+      "length": "40 weeks",
+      "startDate": "2023-08-02",
+      "description": "What Does a .NET Developer Do? Responsible for developing applications and software."
+    },
+    {
+      "id": 6,
+      "couresenumber": "2363",
+      "title": "Dev ops engineer",
+      "length": "40 weeks",
+      "startDate": "2023-08-01",
+      "description": "What Does a .Net developer Do? Responsible for developing applications and software."
+    },
+    {
+      "id": 7,
+      "couresenumber": "34563",
+      "title": "Data science",
+      "length": "40 weeks",
+      "startDate": "2023-08-04",
+      "description": "What Does a Data engineer Developer Do? Responsible for developing applications and software."
+    },
+    {
+      "id": 8,
+      "couresenumber": "9543963",
+      "title": "Three.JS",
+      "length": "25 timmar",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 9,
+      "couresenumber": "943963",
+      "title": "RUBY",
+      "length": "40 weeks",
+      "startDate": "2023-08-01",
+      "description": "What Does a Python Developer Do? Responsible for developing applications and software."
+    },
+    {
+      "id": 10,
+      "couresenumber": "9432963",
+      "title": "Type script",
+      "length": "40 weeks",
+      "startDate": "2023-08-01",
+      "description": "What Does a Type script Developer Do? Responsible for developing applications and software."
+    },
+    {
+      "title": "",
+      "couresenumber": "",
+      "length": "",
+      "startDate": "",
+      "description": "",
+      "id": 11
+    },
+    {
+      "title": "",
+      "couresenumber": "",
+      "length": "",
+      "startDate": "",
+      "description": "",
+      "id": 12
+    },
+    {
+      "title": "",
+      "couresenumber": "",
+      "length": "",
+      "startDate": "",
+      "description": "",
+      "id": 13
+    },
+    {
+      "title": "AI developer with Python",
+      "couresenumber": "3",
+      "length": "9",
+      "startDate": "2023-01-20",
+      "description": "sadasadsaASdsadsadadsaddsa",
+      "id": 14
+    },
+    {
+      "title": "Type script",
+      "couresenumber": "13",
+      "length": "14",
+      "startDate": "2023-01-25",
+      "description": "fskdlfjkf sdkljf dsf klfjdlksf",
+      "id": 15
+    },
+    {
+      "title": "Type script",
+      "couresenumber": "13",
+      "length": "14",
+      "startDate": "2023-01-25",
+      "description": "fskdlfjkf sdkljf dsf klfjdlksf",
+      "id": 16
+    },
+    {
+      "title": "fdsfdsfds",
+      "couresenumber": "-1",
+      "length": "1",
+      "startDate": "2023-01-06",
+      "description": "saddsada",
+      "id": 17
+    },
+    {
+      "title": "dsadsa",
+      "couresenumber": "1",
+      "length": "-1",
+      "startDate": "2023-01-19",
+      "description": "saddd",
+      "id": 18
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "firstName": "Alvin",
+      "lastName": "Dawn",
+      "email": "alvin.dawn@myedu.se",
+      "telephone": "0735218989",
+      "personalNumber": "741116-0223",
+      "skills": "HTML, CSS, Vanilla JavaScript,Type script,React"
+    },
+    {
+      "id": 2,
+      "firstName": "Arvid",
+      "lastName": "Dawn Amin",
+      "email": "arvid.dawn@wc.edu.se",
+      "telephone": "0735218989",
+      "personalNumber": "741116-0223",
+      "skills": "HTML, CSS, Vanilla JavaScript,Type script,React,Python"
+    },
+    {
+      "id": 3,
+      "firstName": "Farhana",
+      "lastName": "Yasmin",
+      "email": "farhana.yasmin@wc.edu.se",
+      "telephone": "0735218982",
+      "personalNumber": "741116-0224",
+      "skills": "HTML, CSS, Vanilla JavaScript,Type script,React,Angular,Java"
+    },
+    {
+      "id": 4,
+      "firstName": "Bindu",
+      "lastName": "Dawn",
+      "email": "Bindu.dawn@wc.edu.com",
+      "telephone": "0735211122",
+      "personalNumber": "741116-0223",
+      "skills": "Python,Java,C#,C++"
+    },
+    {
+      "id": 5,
+      "firstName": "Musa",
+      "lastName": "Dawn",
+      "email": "musa.dawn@wc.edu.com",
+      "telephone": "0735214589",
+      "personalNumber": "741116-0223",
+      "skills": "HTML, CSS, Vanilla JavaScript,Typescript"
+    },
+    {
+      "id": 6,
+      "firstName": "Laura",
+      "lastName": "Dhor",
+      "email": "laura.dhor@wc.edu.com",
+      "telephone": "0735211122",
+      "personalNumber": "741116-0223",
+      "skills": "Python,Java,C#,C++"
+    },
+    {
+      "firstName": "ssadsa",
+      "lastName": "dfsfdfd",
+      "email": "bahalul@yahoo.com",
+      "telephone": "0727710859",
+      "personalNumber": "0727710859",
+      "skills": "ettretre",
+      "id": 7
+    },
+    {
+      "firstName": "ssadsa",
+      "lastName": "dfsfdfd",
+      "email": "bahalul@yahoo.com",
+      "telephone": "0727710859",
+      "personalNumber": "0727710859",
+      "skills": "ettretre",
+      "id": 8
+    },
+    {
+      "firstName": "ewrewr",
+      "lastName": "erwrew",
+      "email": "bahalul@yahoo.com",
+      "telephone": "0727710859",
+      "personalNumber": "0727710859",
+      "skills": "Bahalul",
+      "id": 9
+    },
+    {
+      "firstName": "ewrewr",
+      "lastName": "erwrew",
+      "email": "bahalul@yahoo.com",
+      "telephone": "0727710859",
+      "personalNumber": "0727710859",
+      "skills": "Bahalul",
+      "id": 10
+    },
+    {
+      "firstName": "ewrewr",
+      "lastName": "erwrew",
+      "email": "bahalul@yahoo.com",
+      "telephone": "0727710859",
+      "personalNumber": "0727710859",
+      "skills": "Bahalul",
+      "id": 11
+    },
+    {
+      "firstName": "Ononto ",
+      "lastName": "Jolil",
+      "email": "bahalul@yahoo.com",
+      "telephone": "0727710859",
+      "personalNumber": "0727710859",
+      "skills": "Typescript only",
+      "id": 12
+    }
+  ]
+}

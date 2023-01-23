@@ -1,0 +1,22 @@
+.read-more-button {
+  height: 30px;
+  width: 15%;
+  background-color: rgb(237, 241, 238);
+  border-radius: 7px;
+  margin: 10px;
+}
+input,
+textarea,
+button {
+  height: 40px;
+  width: 400px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.428);
+}
+button {
+  background-color: rgb(92, 182, 60);
+  margin-top: 20px;
+  font-size: 1rem;
+}
+label {
+  font-size: 1.5rem;
+}
