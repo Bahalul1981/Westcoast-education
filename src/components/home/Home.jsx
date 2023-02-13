@@ -11,7 +11,13 @@ function Home() {
       <div className="home-page-image">
         <img src={mainImage} className="main-image-for-homepage" alt="" />
       </div>
-      <h1>Get your dreem education with us</h1>
+      <div className="footer-div">
+        <h1>Get your dreem education with us</h1>
+        <p className="footer-copyright">
+          {" "}
+          &copy; 2023 - 2024 Arvid Dawn Amin All Rights reserved
+        </p>
+      </div>
     </div>
   );
 }

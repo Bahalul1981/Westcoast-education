@@ -34,7 +34,7 @@ function Course() {
           <p>Course start: {newCourses.startDate}</p>
           <p>Course description: {newCourses.description}</p>
           <button className="read-more-button">
-            <a href="/">Read more</a>
+            <a href="*">Read more</a>
           </button>
         </div>
       ))}
