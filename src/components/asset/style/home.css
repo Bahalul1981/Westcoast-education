@@ -1,5 +1,5 @@
 .home-page-image {
-  width: 98%;
+  width: 100%;
   margin: auto;
   background-repeat: no-repeat;
 }
@@ -14,4 +14,9 @@
   margin: 100px;
   font-size: 3rem;
   color: rgb(11, 10, 5);
+}
+.header-div,
+.footer-div {
+  width: 100%;
+  margin: auto;
 }

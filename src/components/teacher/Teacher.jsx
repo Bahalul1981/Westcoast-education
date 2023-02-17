@@ -18,6 +18,19 @@ function Teacher() {
     }
   }, [error]);
 
+  const readMoreDetails = (addNew) => {
+    const firstName = addNew.firstName;
+    const laName = addNew.lastName;
+    const skills = addNew.skills;
+    const lorem =
+      "consectetur adipisicing elit. Eum, quaerat. Natus fuga ab rem quos? Libero recusandae omnis perferendis nobis nemo inventore aliquam iure obcaecati nulla odit, optio, eum eius.";
+
+    alert(
+      `Name:${firstName}${" "}${laName}
+Skills:${skills} ${lorem}`
+    );
+  };
+
   return (
     <div>
       <Navigation />
@@ -33,8 +46,11 @@ function Teacher() {
           <p>Telephone: {newData.telephone}</p>
           <p>Personal number: {newData.personalNumber}</p>
           <p>Skills: {newData.skills}</p>
-          <button className="read-more-button">
-            <a href="/">Read more</a>
+          <button
+            className="read-more-button"
+            onClick={() => readMoreDetails(newData)}
+          >
+            Read more
           </button>
         </div>
       ))}

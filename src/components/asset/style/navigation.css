@@ -9,6 +9,7 @@
   font-size: 1.2rem;
   background-color: rgba(86, 86, 70, 0.709);
   height: auto;
+  width: 100%;
 }
 .nav-link ul {
   font-size: 1.2rem;
@@ -22,15 +23,12 @@
   margin: 30px;
   color: black;
 }
-.footer-div {
-  margin: 50px;
-  width: 100%;
-}
+
 .footer-copyright {
   margin-top: 20px;
 }
 
-@media only screen and (max-width: 768px) {
+@media (max-width: 768px) {
   .nav-link ul li a {
     display: block;
     margin: 20px;

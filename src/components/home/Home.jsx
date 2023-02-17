@@ -5,9 +5,11 @@ import mainImage from "../asset/image/homeimage.jpg";
 function Home() {
   console.log(mainImage);
   return (
-    <div>
+    <div className="header-div">
       <Navigation />
-      <h1 className="home-page-heading">Welcome to Westcoast Education</h1>
+      <div>
+        <h1 className="home-page-heading">Welcome to Westcoast Education</h1>
+      </div>
       <div className="home-page-image">
         <img src={mainImage} className="main-image-for-homepage" alt="" />
       </div>
